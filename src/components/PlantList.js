@@ -11,7 +11,6 @@ function PlantList({plants}) {
         return <PlantCard
         key = {plant.id}
         plant={plant}
-        onDelete = { onDelete}
         />
       })
       }
