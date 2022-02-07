@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Calathea",
+      "image": "./images/calathea",
+      "price": "11.11",
+      "id": 8
+    },
+    {
+      "name": "weed",
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Famv-prod-gp.s3.amazonaws.com%2Fgearpatrol%2Fwp-content%2Fuploads%2F2020%2F04%2FWeed-Terms-Gear-Patrol-Lead-Full.jpg%3Fcrop%3D0.6701030927835051xw%3A1xh%3Bcenter%2Ctop%26resize%3D640%3A*&imgrefurl=https%3A%2F%2Fwww.gearpatrol.com%2Fhome%2Fa707237%2Fcannabis-101-what-you-need-to-know-before-stocking-up-on-weed%2F&tbnid=NVgYoLNR5At7oM&vet=12ahUKEwiegbigqez1AhU0gHIEHdyRACQQMygAegUIARCHAg..i&docid=XfkODIsvS8GSGM&w=640&h=640&q=weed&client=safari&ved=2ahUKEwiegbigqez1AhU0gHIEHdyRACQQMygAegUIARCHAg",
+      "price": "12",
+      "id": 9
     }
   ]
 }
